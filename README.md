@@ -23,7 +23,7 @@ Another way to Start :
 1. Clone the repository: `git clone [repository URL]`
 2. Open the index.html file in your preferred web browser
 3. Start performing calculations using the provided buttons
-4. 
+
 Feel free to contribute, report issues, or suggest enhancements by submitting a pull request or creating an issue in the repository.
 
 Enjoy using the Calculator Web App!
