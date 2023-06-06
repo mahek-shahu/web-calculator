@@ -18,7 +18,9 @@ Technologies Used:
 - HTML5: Markup language for creating the structure of the calculator
 - CSS3: Stylesheet language for designing the visual appearance of the calculator
 - JavaScript: Programming language for implementing the calculator's functionality
-![Screenshot (204)](https://github.com/mahek-shahu/web-calculator/assets/128591145/67eb5285-fbe3-458d-8374-b0beac77a0cf)
+
+![Screenshot (204)](https://github.com/mahek-shahu/web-calculator/assets/128591145/2b3d0020-45ee-402b-9694-febff6a9a29c)
+
 
 Another way to Start :
 1. Clone the repository: `git clone [repository URL]`
