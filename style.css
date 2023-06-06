@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+
+h1 {
+  font-size: 45px;
+  color: #a009d7;
+  font-family: 'Archivo Black', sans-serif;
+
+}
+
+.button {
+  padding: 20px;
+  margin: 0 3px;
+  border: 2.5px solid black;
+  border-radius: 15px;
+  cursor: pointer;
+  color: #401f42;
+}
+
+.button:hover {
+  background-color: #b006c6;
+}
+
+.row {
+  margin: 8px 0;
+}
+
+.row input {
+  margin: 0;
+  padding: 6px 30px;
+  border: 3px solid black;
+  border-radius: 10px;
+}
