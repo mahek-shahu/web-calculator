@@ -31,4 +31,13 @@ Another way to Start :
 
 Feel free to contribute, report issues, or suggest enhancements by submitting a pull request or creating an issue in the repository.
 
+Contributing
+Contributions are welcome! If you encounter any issues or have suggestions for enhancements, feel free to submit a pull request or open an issue in the repository. Please make sure to follow the guidelines outlined in the CONTRIBUTING.md file.
+
+License
+This project is licensed under the MIT License.
+
+Acknowledgements
+Replit for providing an excellent online coding platform for collaborative development.
+
 Enjoy using the Calculator Web App!
